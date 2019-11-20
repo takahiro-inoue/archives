@@ -1,5 +1,6 @@
 # メモ
 
+- [Markdown記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
 
 - [ブルックスの法則](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%B3%95%E5%89%87)
 ```
