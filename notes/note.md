@@ -8,6 +8,13 @@
 - [MDN Web Docs](https://developer.mozilla.org/ja/)  
 開発者による開発者のためのリソース。
 
+### PHP
+- [PHP](https://www.php.net/manual/ja/index.php)  
+PHP マニュアル
+
+- [Laravel](http://laravel.jp/)  
+PHP フレームワーク
+
 ### その他
 - [ブルックスの法則](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%B3%95%E5%89%87)  
 ブルックスの法則（ブルックスのほうそく）はフレデリック・ブルックスによって提唱された、「遅れているソフトウェアプロジェクトへの要員追加は、プロジェクトをさらに遅らせるだけである」という、ソフトウェア開発のプロジェクトマネジメントに関する法則である。  
