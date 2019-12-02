@@ -32,11 +32,15 @@ PHP フレームワーク
 - [オブジェクト指向分析設計](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E5%88%86%E6%9E%90%E8%A8%AD%E8%A8%88)
 
 ### 読み物
-[プログラマが知るべき97のこと](https://プログラマが知るべき97のこと.com/)
+- [プログラマが知るべき97のこと](https://プログラマが知るべき97のこと.com/)
 
-[AWS 日本国内の導入事例](https://aws.amazon.com/jp/solutions/case-studies-jp/)
+- [AWS 日本国内の導入事例](https://aws.amazon.com/jp/solutions/case-studies-jp/)
 
-[未経験２７歳プログラマーへの道（イバラ）](http://ukkyo.sakura.ne.jp/)
+- [未経験２７歳プログラマーへの道（イバラ）](http://ukkyo.sakura.ne.jp/)
+
+笑わないプログラマ  
+1. [笑わないプログラマ 前編](https://yaasita.github.io/Gunsou01.html)  
+1. [笑わないプログラマ 後編](https://yaasita.github.io/Gunsou02.html)  
 
 ### 開発法則
 - [ブルックスの法則](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%B3%95%E5%89%87)  
