@@ -50,7 +50,9 @@ PHP フレームワーク
 認めながらも、私たちは右記のことがらにより価値をおく。 
 ```
 
-
+### 原則
+- [DRY原則](https://ja.wikipedia.org/wiki/Don%27t_repeat_yourself)
+- [SOLID原則](https://ja.wikipedia.org/wiki/SOLID)
 
 ### 読み物
 - [プログラマが知るべき97のこと](https://プログラマが知るべき97のこと.com/)
