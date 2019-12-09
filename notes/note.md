@@ -67,13 +67,10 @@ PHP フレームワーク
 ITエンジニア/デザイナ向けにオープンソースを毎日紹介
 
 ### Twitter
-https://twitter.com/shiraponsu/status/1203562951367520256
-```
-「作りたいサービスがあるからエンジニアになった」みたいな人も多いと思いますが、最近は簡単なものならGUIでできてしまうから便利な世の中になったと感じる。
-キャリアの始めは簡単なものを作ってステップアップしていくと思うんですが、今後はその部分が企業か個人の負担になるかもしれない。
-```
-![メモ](https://pbs.twimg.com/media/ELPqH2NVUAAB3fB?format=png&name=small)
 
+![メモ](https://pbs.twimg.com/media/ELPqH2NVUAAB3fB?format=png&name=small)  
+
+- [メルカリのようなサービスを、10万円で作る方法を考えてみる ](https://note.com/__shinji__/n/n4fc0052716e8)
 
 ### 開発法則
 - [ブルックスの法則](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%B3%95%E5%89%87)  
