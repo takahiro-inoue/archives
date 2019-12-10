@@ -29,3 +29,9 @@ GitHubで管理出来るのはいいが、SEO対策などが弱い
 Web公開
 - [【初心者向け】Github pagesでwebページを公開する方法](https://qiita.com/sota_mikami/items/c6038cf13fd84b519a61)
 
+### GitPod
+CloudIDE
+- [GitPod](https://www.gitpod.io/)
+- [クラウドIDE「Gitpod」を試してみたら予想以上に使えそうだった](https://qiita.com/kai_kou/items/40a7a579f1bce31d6a16)
+
+
