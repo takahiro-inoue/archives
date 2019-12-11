@@ -53,6 +53,8 @@ PHP フレームワーク
 - [SOLID原則](https://ja.wikipedia.org/wiki/SOLID)
 
 ### 読み物
+
+#### エンジニア
 ![](https://camo.githubusercontent.com/181c921e730c51134f0409412886327ce6a3dfaf/68747470733a2f2f692e696d6775722e636f6d2f733563435639712e706e67)
 - [WEB DEVELOPER ROADMAP](https://github.com/kamranahmedse/developer-roadmap)
 - [プログラマが知るべき97のこと](https://プログラマが知るべき97のこと.com/)
@@ -65,6 +67,9 @@ PHP フレームワーク
 
 - [MOONGIFT](https://www.moongift.jp/)  
 ITエンジニア/デザイナ向けにオープンソースを毎日紹介
+
+#### 仕事
+- [チャーリー | note](https://note.com/tck)
 
 ### Twitter
 
