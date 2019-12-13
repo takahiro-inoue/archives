@@ -1,6 +1,8 @@
 # Develop Notes Archives
 
-Development notes
+Development Notes
+
+[GitHub Pages](https://takahiro-inoue.github.io/archives/)
 
 ## Description
 
