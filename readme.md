@@ -2,6 +2,7 @@
 
 Development Notes
 
+[GitHub](https://github.com/takahiro-inoue/archives/)  
 [GitHub Pages](https://takahiro-inoue.github.io/archives/)
 
 ## Description
