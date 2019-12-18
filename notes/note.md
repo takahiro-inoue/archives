@@ -59,7 +59,6 @@ PHP フレームワーク
 ### 読み物
 
 #### エンジニア
-![](https://camo.githubusercontent.com/181c921e730c51134f0409412886327ce6a3dfaf/68747470733a2f2f692e696d6775722e636f6d2f733563435639712e706e67)
 - [WEB DEVELOPER ROADMAP](https://github.com/kamranahmedse/developer-roadmap)
 - [プログラマが知るべき97のこと](https://プログラマが知るべき97のこと.com/)
 - [AWS 日本国内の導入事例](https://aws.amazon.com/jp/solutions/case-studies-jp/)
@@ -74,12 +73,6 @@ ITエンジニア/デザイナ向けにオープンソースを毎日紹介
 
 #### 仕事
 - [チャーリー | note](https://note.com/tck)
-
-### Twitter
-
-![メモ](https://pbs.twimg.com/media/ELPqH2NVUAAB3fB?format=png&name=small)  
-
-- [メルカリのようなサービスを、10万円で作る方法を考えてみる ](https://note.com/__shinji__/n/n4fc0052716e8)
 
 ### 開発法則
 - [ブルックスの法則](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%B3%95%E5%89%87)  
