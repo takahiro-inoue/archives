@@ -59,6 +59,9 @@ PHP フレームワーク
 
 ### 読み物
 
+### Qiita
+- [【忙しい人向け】カップ麺より早く作るDockerでLaravel開発環境構築](https://qiita.com/ucan-lab/items/d7752b43a9e89cc16b22)
+
 #### エンジニア
 - [WEB DEVELOPER ROADMAP](https://github.com/kamranahmedse/developer-roadmap)
 - [プログラマが知るべき97のこと](https://プログラマが知るべき97のこと.com/)
