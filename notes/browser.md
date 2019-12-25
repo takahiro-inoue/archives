@@ -25,3 +25,7 @@ URLのQRコード化
 
 ### アドオン作成
 - [カスタムの Chrome アプリと拡張機能を作成して公開する - Google Chrome Enterprise ヘルプ](https://support.google.com/chrome/a/answer/2714278?hl=ja)
+
+### アドオン
+- [github-php-function-jumper](https://chrome.google.com/webstore/detail/github-php-function-jumpe/pmgmgaejgbjiooiklinoelilmnldlhcf)
+- [memory-agape/github-php-function-jumper](https://github.com/memory-agape/github-php-function-jumper)
