@@ -20,6 +20,9 @@ URLのQRコード化
 - [ツリー型タブ (Tree Style Tab)](https://addons.mozilla.org/ja/firefox/addon/tree-style-tab/)  
 タブをツリー型に変更
 
+- [Vue.js devtools](https://addons.mozilla.org/ja/firefox/addon/vue-js-devtools/)  
+Vue.js devtools
+
 ## Google Chrome
 - [Google Chrome](https://www.google.com/intl/ja_jp/chrome/)
 
