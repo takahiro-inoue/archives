@@ -24,6 +24,9 @@ Vue.js devtools
 - [HTTP request maker](https://addons.mozilla.org/ja/firefox/addon/http-request-maker/)  
 HTTP Requestの作成
 
+- [Selenium IDE](https://addons.mozilla.org/ja/firefox/addon/selenium-ide)  
+自動テストSelenium
+
 ## Google Chrome
 - [Google Chrome](https://www.google.com/intl/ja_jp/chrome/)
 
