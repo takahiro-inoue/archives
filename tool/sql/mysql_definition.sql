@@ -28,9 +28,9 @@ FROM
     UNION ALL 
     SELECT
       TABLE_NAME
-      , CONCAT('\r\n## ', TABLE_NAME, '\r\n### テーブル定義') AS COLUMN_NAME
-      , CONCAT('（', TABLE_COMMENT, '）') AS COLUMN_DEFAULT
-      , '' AS IS_NULLABLE
+      , CONCAT('\r\n## ', TABLE_NAME) AS COLUMN_NAME
+      , IF(LENGTH(TABLE_COMMENT) > 0, CONCAT('（', TABLE_COMMENT, '）'), '' ) AS COLUMN_DEFAULT
+      , '\r\n### テーブル定義' AS IS_NULLABLE
       , '' AS COLUMN_TYPE
       , '' AS COLUMN_KEY
       , '' AS EXTRA
